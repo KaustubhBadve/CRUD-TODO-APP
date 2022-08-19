@@ -1,70 +1,47 @@
-# Getting Started with Create React App
+<h1>CRUD TODO Application <h1>
+<hr>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a individual Project. We are 4 members of the team:
 
-## Available Scripts
+<h3> Tech & Tools Used : </h3>
 
-In the project directory, you can run:
+These are the technologies used in this project which are available below:
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<li>React</li>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<li>Redux</li>
 
-### `npm test`
+<li>MASAI Authentification API</li>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<li>Chaktra UI</li>
 
-### `npm run build`
+<li>Javascript</li>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<li>CSS</li>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# Functionalities we made:
+## Landing Page :
+The landing page consists of various table like TODO ,completed, inprogress where user can categorised his todos. On left side he will get all his information that is used to filled during login.
 
-### `npm run eject`
+## Register and Login :
+On the register page, the user can register by giving common details like First Name, Work Email, Mobile Number, and Password.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+If the user is already registered, the user can log in with an Email & Password.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+After signup and login successful user is navigated to the dashboard.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+NetlifyLink : https://lumen5clone8888.netlify.app/
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+I would say, thank you for reading this here. I hope you will find it helpful. I have completed this project with full enthusiasm, focus, and hard work. It may have some bugs, but I will try to fix them soon.
 
-## Learn More
+It was not an easy task to implement the new concepts on the first attempt.Feel free to reach out to us for any feedback.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<hr>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<img src="https://user-images.githubusercontent.com/101566134/185571678-09314f1c-4e0e-42e5-9f2f-e439d7154aa7.png"/><hr>
+<img src="https://user-images.githubusercontent.com/101566134/185571850-e0511c08-2d6c-4533-918f-c941d57b44bc.png"/><hr>
+<img src="https://user-images.githubusercontent.com/101566134/185572019-4b26a850-f9ef-4290-80de-eccbc1f8e495.png"/><hr>
+<img src="https://user-images.githubusercontent.com/101566134/185572064-7d7e6d29-5115-403a-b9d1-e0e1adc5738f.png"/><hr>
+<img src="https://user-images.githubusercontent.com/101566134/185572125-86228b1c-8f66-48cb-9cf5-f1573bfc0e5b.png"/><hr>
