@@ -1,0 +1,189 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "title": "Task 2",
+      "description": "Description of Task 2",
+      "task_status": "in-progress",
+      "tags": [
+        "official"
+      ],
+      "subTask": [
+        {
+          "subTaskTitle": "Task2 : Sub Task 1",
+          "status": false
+        },
+        {
+          "subTaskTitle": "Task2 : Sub Task 2",
+          "status": true
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Task 3",
+      "description": "Description of Task 3",
+      "task_status": "done",
+      "tags": [
+        "others"
+      ],
+      "subTask": [
+        {
+          "subTaskTitle": "Task3 : Sub Task 1",
+          "status": true
+        },
+        {
+          "subTaskTitle": "Task3 : Sub Task 2",
+          "status": false
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Task 5",
+      "description": "Description of Task 5",
+      "task_status": "in-progress",
+      "tags": [
+        "personal"
+      ],
+      "subTask": [
+        {
+          "subTaskTitle": "Task5 : Sub Task 1",
+          "status": false
+        },
+        {
+          "subTaskTitle": "Task5 : Sub Task 2",
+          "status": false
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Construct Week 4",
+      "description": "Need to clone Lumen5",
+      "task_status": "in-progress",
+      "tags": [
+        "official",
+        "personal"
+      ],
+      "subTask": [
+        {
+          "subTaskTitle": "Need to create video page",
+          "status": false
+        },
+        {
+          "subTaskTitle": "Homepage",
+          "status": true
+        }
+      ]
+    },
+    {
+      "title": "Masai Course Unit 5",
+      "description": "Succesfully Completed",
+      "task_status": "done",
+      "tags": [
+        "personal"
+      ],
+      "subTask": [
+        {
+          "subTaskTitle": "Revisit Redux",
+          "status": false
+        },
+        {
+          "subTaskTitle": "Leaning DSA",
+          "status": true
+        }
+      ],
+      "id": 7
+    },
+    {
+      "title": "Study for DSA",
+      "description": "Graph and DP revision",
+      "task_status": "todo",
+      "tags": [
+        "official",
+        "others"
+      ],
+      "subTask": [
+        {
+          "subTaskTitle": "Graph",
+          "status": false
+        },
+        {
+          "subTaskTitle": "DP",
+          "status": false
+        },
+        {
+          "subTaskTitle": "Linked List",
+          "status": false
+        }
+      ],
+      "id": 8
+    },
+    {
+      "title": "efrfsrfsrfr",
+      "description": "srfsrfsfsfsrfsrf",
+      "task_status": "todo",
+      "tags": [
+        "official"
+      ],
+      "subTask": [
+        {
+          "subTaskTitle": "rfrfsfsf",
+          "status": false
+        },
+        {
+          "subTaskTitle": "seffsefs",
+          "status": false
+        }
+      ],
+      "id": 9
+    },
+    {
+      "title": "Record Video for Construrt week",
+      "description": "Clone Lumen 5 Website",
+      "task_status": "todo",
+      "tags": [
+        "official"
+      ],
+      "subTask": [
+        {
+          "subTaskTitle": "Login Function",
+          "status": false
+        },
+        {
+          "subTaskTitle": "SignUp function ",
+          "status": false
+        },
+        {
+          "subTaskTitle": "Require Protected Routes",
+          "status": false
+        },
+        {
+          "subTaskTitle": "Require Protected Routes",
+          "status": false
+        }
+      ],
+      "id": 10
+    },
+    {
+      "title": "qqqq",
+      "description": "qqqqqdw",
+      "task_status": "done",
+      "tags": [
+        "personal"
+      ],
+      "subTask": [
+        {
+          "subTaskTitle": "aaa",
+          "status": false
+        },
+        {
+          "subTaskTitle": "ccc",
+          "status": false
+        }
+      ],
+      "id": 11
+    }
+  ]
+}
