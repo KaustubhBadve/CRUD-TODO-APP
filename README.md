@@ -1,7 +1,7 @@
 <h1>CRUD TODO Application <h1>
 <hr>
 
-This is a individual Project. We are 4 members of the team:
+  <h4>This is an individual Project.</h4>
 
 <h3> Tech & Tools Used : </h3>
 
