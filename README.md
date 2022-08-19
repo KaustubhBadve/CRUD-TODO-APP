@@ -1,7 +1,9 @@
 <h1>CRUD TODO Application <h1>
 <hr>
 
-  <h4>This is an individual Project.</h4>
+<h3>This is an individual Project.</h3>
+
+<h4>CRUD TODO app where user need to do signup and login and then he can acccess his past created todos, create new one, edit existing once and delete. Based on different categories he can differentiate also.</h4>
 
 <h3> Tech & Tools Used : </h3>
 
@@ -32,7 +34,7 @@ If the user is already registered, the user can log in with an Email & Password.
 
 After signup and login successful user is navigated to the dashboard.
 
-NetlifyLink : https://lumen5clone8888.netlify.app/
+NetlifyLink : https://crudtodoapp88.netlify.app
 
 I would say, thank you for reading this here. I hope you will find it helpful. I have completed this project with full enthusiasm, focus, and hard work. It may have some bugs, but I will try to fix them soon.
 
